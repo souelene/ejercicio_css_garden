@@ -1,0 +1,117 @@
+body{
+
+	background:black;
+	color:#F6CEEC;
+	font-family: cursive;
+
+}
+
+h3{
+color:black;
+
+}
+
+header{
+background:#2A0A1B;
+text-align: center;
+color:black
+border:5px solid;
+border-radius: 30px;
+font-size: 30px;
+}
+
+.preamble{
+	
+
+text-align: center;
+
+color:#F6CEEC;
+background:#FA58D0;
+border: 2px solid black;
+border-radius: 30px;
+}
+
+
+.explanation{
+	
+	
+
+text-align: center;
+
+color:#F6CEEC;
+background:#DF01A5;
+border: 2px solid black;
+border-radius: 30px;
+}
+
+.participation{
+	
+	
+border: 2px solid black;
+border-radius: 30px;
+text-align: center;
+
+color:#F6CEEC;
+background:#B40486;
+
+
+
+}
+
+
+.benefits{
+	
+border: 2px solid black;
+border-radius: 30px;
+color:#F6CEEC;
+background:#8A0868;
+font-family: cursive;
+
+
+}
+
+
+.requirements{
+
+border: 2px solid black;
+border-radius: 30px;
+
+text-align: center;
+
+color:#F6CEEC;
+background:#610B4B;
+font-family: cursive;
+
+
+	
+}
+
+
+.sidebar{
+	
+
+border: 2px solid black;
+border-radius: 30px;
+
+color:#F6CEEC;
+background:#2A0A22;
+font-family: cursive;
+margin-left: 37%;
+margin-right: 37%;
+	
+	
+
+}
+
+footer{
+
+	text-align: center;
+	color:white;
+}
+
+
+a{
+
+	color:#00FF00;
+	text-decoration:none;
+}
